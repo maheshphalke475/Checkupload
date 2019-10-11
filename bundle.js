@@ -13766,8 +13766,8 @@ define(["qlik", "jquery", "client.utils/routing"], function(t, n, e) {
                             var c = {
                                 "say hello": function() {
                                     p("Said Hello", "OK", r.NotificationMode),
-                                    alert("Hello world!"),
-                                    console.log("Hello world!")
+                                    alert("How Can i assist you!"),
+                                    console.log("How Can i assist you!")
                                 },
                                 "clear selection": function() {
                                     p("Clear All", "OK", r.NotificationMode),
